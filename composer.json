@@ -1,0 +1,9 @@
+{
+    "name": "stripe/stripe-php-app",
+    "description": "A PHP application integrating with Stripe API using Guzzle",
+    "type": "project",
+    "require": {
+        "guzzlehttp/guzzle": "^7.10",
+        "vlucas/phpdotenv": "^5.6"
+    }
+}
